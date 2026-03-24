@@ -1,0 +1,5 @@
+zxcvbn>=4.4.28
+nltk>=3.8.1
+matplotlib>=3.7.0
+tabulate>=0.9.0
+passlib>=1.7.4
